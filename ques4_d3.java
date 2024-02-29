@@ -37,5 +37,5 @@ System.out.print(c[i][j]+" ");
 }
 System.out.println();
 }
-}
-}
+}//end of main 
+}// end of class
